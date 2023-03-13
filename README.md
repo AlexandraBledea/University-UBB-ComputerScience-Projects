@@ -115,7 +115,7 @@
   <li>:open_file_folder: Semester 5
     <ul>
       <li> :musical_score:
-        <a>
+        <a href="https://github.com/AlexandraBledea/Speech-Emotion-Recognition">
           Computer Vision and Deep Learning
         </a>
       </li>
