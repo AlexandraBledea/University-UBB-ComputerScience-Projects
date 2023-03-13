@@ -106,7 +106,7 @@
           :ferris_wheel:  Artificial Intelligence
       </li>
       <li>
-        <a href="https://github.com/AlexandraBledea/Sem4-ISS">
+        <a href="https://github.com/AlexandraBledea/ISS-SEM-4">
           :ambulance:  Software Engineering
         </a>
       </li>
