@@ -144,12 +144,12 @@
   <li>:open_file_folder: Semester 6
     <ul>
       <li> :anger:
-        <a>
+        <a href="https://github.com/AlexandraBledea/Sem6-Game-Development">
           Game Development
         </a>
       </li>
       <li> :grey_question:
-        <a>
+        <a href="https://github.com/AlexandraBledea/Sem6-Design-Patterns">
           Design Patterns
         </a>
       </li>
@@ -158,7 +158,7 @@
         </a>
       </li>
       <li> :sos:
-        <a>
+        <a href="https://github.com/AlexandraBledea/Sem6-Numerical-Calculus">
           Numerical Calculus
         </a>
       </li>
@@ -167,7 +167,7 @@
         </a>
       </li>
       <li> :shipit:
-        <a>
+        <a href="https://github.com/AlexandraBledea/Sem6-SSVV">
           Software Systems Verification and Validation
         </a>
       </li>
