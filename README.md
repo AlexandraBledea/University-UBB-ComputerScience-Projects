@@ -18,7 +18,7 @@
         </a>
       </li>
       <li>
-        <a href="https://github.com/AlexandraBledea/Sem1-CL"> 
+        <a href="https://github.com/AlexandraBledea/Sem1-Analysis"> 
           :sparkling_heart:  Mathematical Analysis
         </a>
       </li>
